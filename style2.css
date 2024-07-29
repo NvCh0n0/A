@@ -96,3 +96,14 @@ p{
     text-align: center;
     align-items: stretch;
 }
+
+
+.fundo{
+    display: flex;
+    background-color: #0b1522;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

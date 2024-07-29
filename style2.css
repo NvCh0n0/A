@@ -6,6 +6,7 @@ body{
     align-items: center;
     justify-content: center;
     background: #0b1522;
+    flex-direction: column;
 }
 
 .heart{
@@ -88,4 +89,10 @@ a{
     text-align: end;
     align-content: flex-end;
     
+}
+
+p{
+    color: white;
+    text-align: center;
+    align-items: stretch;
 }
